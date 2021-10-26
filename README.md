@@ -1,2 +1,2 @@
 # Desafio_dados
- desafio de
+ Nesse repositório irá constar **pré-processamento, transformação e análise de dados** feitas com linguagem de programação Python, utilizando as bibliotecas a seguir para manipulação e visualização de dados: pandas, numpy, pyplot, seaborn.
